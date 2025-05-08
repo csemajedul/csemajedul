@@ -1,8 +1,10 @@
 ![I am Shopify Web Developer](https://media.licdn.com/dms/image/v2/D5616AQF9mk2mQ9D5uw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736211107756?e=1752105600&v=beta&t=ECaKtcvcDrTMAE9c8aQyMKsGqLEOes-Eq0DIQ9XYfYc)
-### Hi there 👋, 
+### Hey there 👋, 
 My name is <b> Majedul islam</b>
 
-I’m a Certified Shopify E-commerce Specialist, specializing in e-commerce business development. With over 4 years of experience in Shopify store design and development, optimization, and growth strategies, I have successfully completed over 250+ projects for 170+ satisfied clients worldwide. My expertise areas in building high-converting, scalable, and fully optimized Shopify E-commerce web stores that drive sales and enhance brand credibility.
+As a Certified Shopify expert and Key Account Manager at Backbencher Studio, I help entrepreneurs and startups turn their e-commerce ideas into high-performing Shopify stores. With a focus on clean design, smooth functionality, and user-friendly experiences, I simplify the technical side of launching and scaling online businesses.
+
+Whether you're starting from scratch or looking to revamp your store, I bring both technical skill and strategic insight to ensure your brand stands out and converts.
 
 ![Profile views](https://komarev.com/ghpvc/?username=csemajedul&color=red)
 
@@ -14,19 +16,18 @@ I’m a Certified Shopify E-commerce Specialist, specializing in e-commerce busi
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Shopify E-commerce  
-- 📫 How to reach me: +880 01601651632 ( WhatsApp ) 
+- 📫 Book Meeting on Cal : [Book](https://cal.com/csemajedul/30min)) 
 - 📄 All About Me:[https://majedul.com/](https://majedul.com/)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.facebook.com/nhmoonofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhmoonofficial" height="30" width="40" /></a>
-<a href="https://twitter.com/nhmoon313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nhmoonofficial" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nazmulmoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhmoonofficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nhmoonofficial2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nhmoonofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/nhmoonofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nhmoonofficial" height="30" width="40" /></a>
-<a href="https://dribbble.com/mnazmulh313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nhmoonofficial" height="30" width="40" /></a>
-<a href="https://www.behance.net/nhmoon313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nhmoonofficial" height="30" width="40" /></a>
+<a href="https://www.facebook.com/cse.majedul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cse.majedul" height="30" width="40" /></a>
+<a href="https://twitter.com/majedul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="majedul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/csemajedul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csemajedul" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@csemajedul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="csemajedul" height="30" width="40" /></a>
+<a href="https://instagram.com/csemajedul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csemajedul" height="30" width="40" /></a>
+<a href="https://www.behance.net/csemajedul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="csemajedul" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
