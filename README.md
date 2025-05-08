@@ -1,6 +1,6 @@
 ![Header](https://github.com/user-attachments/assets/3ab17cb1-e5b9-42b0-8cae-b6e941b1fa78)
 
-<h1 align="center">Hi there 👋, I'm Denury Chowdhury</h1>
+<h1 align="center">Hi there 👋, I'm Majedul Islam</h1>
 <h3 align="center">A Passionate Frontend Developer 🚀</h3>
 
 🌟 *Bringing Ideas to Life with Code!*  
@@ -19,7 +19,7 @@ I specialize in crafting *responsive, **user-friendly, and **interactive* web ap
 ### 📌 About Me  
 - 🌱 I’m currently learning *MongoDB* to expand my full-stack skills.  
 - 💬 Ask me anything about *HTML, CSS, JavaScript, React.js*.  
-- 📫 How to reach me: *denuryc@gmail.com*  
+- 📫 How to reach me: *majed.bbstudio@gmail.com*
 - ⚡ Fun Fact: I believe coffee ☕ & code 💻 go hand in hand!
 
 ---
