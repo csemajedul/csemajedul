@@ -1,6 +1,6 @@
-![I am Shopify Web Developer](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/475748132_1053875183425778_8439646795783405246_n.png?stp=dst-png_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=0QJ5BpealiYQ7kNvwGclJsP&_nc_oc=AdkT4K7Ixybq6yxf0I81DV4YwfgKm0KNqzyzrn5I6N1nxOHPma_MxJu2hayLJ6tK3V4&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=ejyhY__t2AT1bHUwj6_Z5Q&oh=00_AfF_UvltGPwuVZdpk6wH-YnFy-s1ecD9vXfy9jQPiJNq0w&oe=681630C7)
+![I am Shopify Web Developer](https://media.licdn.com/dms/image/v2/D5616AQF9mk2mQ9D5uw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736211107756?e=1752105600&v=beta&t=ECaKtcvcDrTMAE9c8aQyMKsGqLEOes-Eq0DIQ9XYfYc)
 ### Hi there 👋, 
-My name is <b> Nazmul Moon </b>
+My name is <b> Majedul islam</b>
 
 I’m a Certified Shopify E-commerce Specialist, specializing in e-commerce business development. With over 4 years of experience in Shopify store design and development, optimization, and growth strategies, I have successfully completed over 250+ projects for 170+ satisfied clients worldwide. My expertise areas in building high-converting, scalable, and fully optimized Shopify E-commerce web stores that drive sales and enhance brand credibility.
 
