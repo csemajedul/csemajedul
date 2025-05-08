@@ -2,7 +2,7 @@
 ### Hey there 👋, 
 My name is <b> Majedul islam</b>
 
-As a Certified Shopify expert and Key Account Manager at Backbencher Studio, I help entrepreneurs and startups turn their e-commerce ideas into high-performing Shopify stores. With a focus on clean design, smooth functionality, and user-friendly experiences, I simplify the technical side of launching and scaling online businesses.
+As a Certified Shopify Expert and Key Account Manager at Backbencher Studio, I help entrepreneurs and startups turn their e-commerce ideas into high-performing Shopify stores. With a focus on clean design, smooth functionality, and user-friendly experiences, I simplify the technical side of launching and scaling online businesses.
 
 Whether you're starting from scratch or looking to revamp your store, I bring both technical skill and strategic insight to ensure your brand stands out and converts.
 
@@ -16,7 +16,7 @@ Whether you're starting from scratch or looking to revamp your store, I bring bo
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Shopify E-commerce  
-- 📫 Book Meeting on Cal : [Book](https://cal.com/csemajedul/30min)) 
+- 📫 Book Meeting on Cal : [Book](https://cal.com/csemajedul/30min)
 - 📄 All About Me:[https://majedul.com/](https://majedul.com/)
 
 <h3 align="left">Connect with me:</h3>
