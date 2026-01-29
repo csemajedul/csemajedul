@@ -1,4 +1,4 @@
-![I am Shopify Web Developer](https://media.licdn.com/dms/image/v2/D5616AQF9mk2mQ9D5uw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736211107756?e=1752105600&v=beta&t=ECaKtcvcDrTMAE9c8aQyMKsGqLEOes-Eq0DIQ9XYfYc)
+![I am Shopify Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHwE6s52biywg/profile-displaybackgroundimage-shrink_350_1400/B56Zkfno8QH8AY-/0/1757172115971?e=1771459200&v=beta&t=Mem3nxjxwMRLl05sD6VYlzwkRQefOpOYVO3s0EI2hck)
 ### Hey there 👋, 
 My name is <b> Majedul islam</b>
 
